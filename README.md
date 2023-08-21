@@ -1,0 +1,1 @@
+Esse projeto se trata de um site de vendas de e-books e afiliações de curso.
